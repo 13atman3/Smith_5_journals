@@ -1,0 +1,6 @@
+alert('Howdy Brah!') 
+window.alert('this is a window')
+window.confirm('Shall we continue?')
+
+var x = 42;
+document.write(x);
